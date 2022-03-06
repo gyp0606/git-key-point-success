@@ -1,1 +1,9 @@
 #git离线建立项目，然后push的关键流程
+# or create a new repository on the command line
+
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/gyp0606/git-key-point.git
+# git push -u origin main
