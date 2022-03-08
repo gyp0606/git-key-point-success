@@ -5,10 +5,8 @@
 # git init
 # git add README.md
 # git commit -m "first commit"
+# 先在GitHub上创建一个库 git-key-point-success
 # git branch -M main
-# git remote add origin https://github.com/gyp0606/git-key-point.git
+# git remote add origin https://github.com/gyp0606/git-key-point-success.git
 # 如果名称修改，需要去修改config
 # git push -u origin main
-
-# 2.用vs coding 方式
-# publish
